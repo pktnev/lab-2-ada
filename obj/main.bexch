@@ -1,0 +1,22 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+C:\Users\pktne\Documents\CHNU\LAB\Parallel\lab2\lab-2-ada\lab2.gpr
+20240910040128 9b3eca5f3c23472bc0490ce8a24337ac
+[BOUND OBJECT FILES]
+C:\Users\pktne\Documents\CHNU\LAB\Parallel\lab2\lab-2-ada\obj\main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-LC:\Users\pktne\Documents\CHNU\LAB\Parallel\lab2\lab-2-ada\obj\
+-LC:\Users\pktne\Documents\CHNU\LAB\Parallel\lab2\lab-2-ada\obj\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnarl.a
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Xlinker
+--stack=0x200000,0x1000
+-mthreads
